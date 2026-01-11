@@ -1,0 +1,22 @@
+return {
+    house = {
+        building_type = "sandbox_island",
+        active_addons = {
+        },
+    },
+    textures = {
+        Room1 = {
+            floors = "tile",
+            walls = "tile",
+        },
+    },
+    metadata = {
+        totalChunks = 0,
+        version = "2.0",
+        chunkSize = 1500,
+        chunked = true,
+        savedBy = "jimmycricket4400",
+        totalFurniture = 0,
+        date = "2026-01-11 22:03:12",
+    },
+}
